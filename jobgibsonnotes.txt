@@ -1,0 +1,98 @@
+Kristin - logistical
+
+2 criteria
+teaching on a library subject
+education things - falls in that category
+
+earlier
+successful earlier in the semester
+
+where can food happen
+
+initial -
+what, why
+git - easiest to jump into
+'free form'
+subversion and master + workflow
+workflow best practices
+
+divide
+1. version control - why is it important, what is it, how and where to use it
+best feature is dif
+2. git
+3. github
+
+How people use git
+self/group
+
+talk about non-github tools
+github is free for public use
+
+tool - good for interviews
+
+command line - invisible folder
+editing - virtual servers (aware of folders)
+
+command line first
+second GUI after break
+mention limit on file size (100mb)
+
+How library uses it
+
+Git - never have usernames and passwords in code in any version
+
+2 step
+config files
+
+BEST PRACTICES
+
+1. copy in git is blank
+2. stasche - store passwords
+
+blog posts
+resource list
+
+copyright statement/license in all git repos
+
+push back to original - pull request
+
+1. create an example
+2. 'how to' create example for pull requests
+3. issues for pull requests
+
+1. member set it up
+documentation
+
+next things - build outline
+branch and merge
+
+one code example - html, java, text
+
+3 environments - linux, mac, windows
+
+how to branch
+
+what they need to install/do prior
+1. text editor
+2. git
+3. github
+
+github interface can change
+
+rebasing
+
+blcoks of time and content, slides, materials, resources
+
+slides made in GitHub? GirlDevelopIt Slides
+
+Timeline
+Outline
+Basefile
+(branch) edit
+check branch back in and merge it
+
+example - graphs that change over time
+graphs > network
+
+Share with jongibson
+add Kristin to ASIST/AWIT permissions as well.
