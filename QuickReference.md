@@ -1,5 +1,6 @@
-Quick start commands:
+Quick start commands:  
 Check the status of your work
+
     git status
 Snapshots file in preparation for versioning
     git add [file]
