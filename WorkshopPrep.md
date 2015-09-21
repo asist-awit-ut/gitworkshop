@@ -10,7 +10,7 @@ git: https://git-scm.com/download/mac
  
 After you install xcode and git, check the version of git in the terminal
 
-  git --version
+    git --version
 
 #PC Prep
 ##Download
