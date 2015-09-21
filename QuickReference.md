@@ -1,18 +1,18 @@
-Quick start commands:  
+##Quick start commands:  
 Check the status of your work
 
     git status
-Snapshots file in preparation for versioning
+Snapshots file in preparation for versioning   
     git add [file]
-example:
+example:   
     git add file.txt
-add all files
+add all files   
     git add .
 
-Commit files    
+Commit files       
     git commit -m "write your commit commentary"
     
-Example:
+Example:   
     git commit -m "Added reference document for workshop"
     
 
