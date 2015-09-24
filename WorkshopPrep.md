@@ -14,4 +14,5 @@ After you install xcode and git, check the version of git in the terminal
 
 #PC Prep
 ##Download
-git:https://git-scm.com/download/win 
+git:  https://git-scm.com/download/win 
+Follow the download instructions and use the default values, they are already selected. 
