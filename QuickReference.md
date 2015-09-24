@@ -1,4 +1,26 @@
 ##Quick start commands:  
+
+Terminal
+Get to the correct directory
+
+    cd Documents
+
+See what is inside a directory/folder
+    
+    ls
+
+Note about how this is written. Any text inside < > needs to be replaced and <> removed.
+
+Get a remote repository set up
+
+    git clone <repository address>
+
+Set up your git profile
+
+    git config --global user.email "<your mail here>"
+
+ 
+
 Check the status of your work
 
     git status
