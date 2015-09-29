@@ -1,15 +1,31 @@
-SAM
+SAM 60 minutes
 5 minutes How to Start - setting up a workspace - what do you need to get started?
 	opening the terminal
 	opening a text editor 
+	creating a directory space
 basic unix shell commands to get started
+	cd, ls, cd.., mkdir, touch
 why is version control important
-setting up git
-text editor
-tools
-git commands - maybe have a handout for everyone
-does someone want to design this?
-we need red and green sticky notes
+	*This will give us a chance to get people caught up
+	What is version control?
+	How can version control help you?
+	Common uses of version control in the wild (google, word, etc)
+	How is git different
+	Distributed
+Setting Up Git
+	basic configurations
+	git ignore files
+Create a local repo - what should the narrative be?
+	git init
+	git status
+	git add
+	git commit -m ""
+		good commits
+	git log
+	git diff
+		getting out of diff ctrl + x
+	git checkout
+		getting to an older version of a file
 
 create a local git repo
 track changes
@@ -19,15 +35,27 @@ diff
 
 explore history
 
-JON
-
+JON 45-50 minutes
+This may end up being more of a demonstration for some of the later parts...
+GUI clients
+Other repositories
 GitHub
-adding your repository to github
-create a new repo
-collaborating with others
-conflicts
-merging
-Contributing to a project
-
-GLossary
+	adding your repository to github(the one that we made with Sam)
+	create a new repo
+	push an existing repository from the command line
+	collaborating with others
+		giving access to group members - make friends
+	git clone
+	git pull
+	git push
+	conflicts
+		see conflicts
+		edit to reconcile changes
+	merging
+	Contributing to a project
+		Open Science/Open development - define briefly
+		This next part might be an interactive demonstration with volunteers interacting with you  - submitting a pull request and going through the process
+		GitHub flow - branching system
+		Pull Requests
+		Merging Pull Requests
 
