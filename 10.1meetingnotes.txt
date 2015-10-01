@@ -1,8 +1,27 @@
-outline:
-	pre-meeting getting stuff installed
+OUTLINE DISCUSSION:
 	
-	Sam timeline:
-		set up workspace
+	MATERIALS:
+	-provide red sticky notes for people requiring help
+		like software carpentry
+		supplies to buy
+	-memo pads for tables
+	-extension cords
+	-power strips
+	-floor plan map for attendees / maybe an event worksheet w/ outline to reference to
+	- make sign "Git and GitHub Workshop This Way" to put up on easel
+	
+	
+	PREP:
+		ensure attendees get/ have GitHub accounts and install Git
+			Include this in pre-event message to attendees
+			-tell this to attendees that arrive in 5-6pm period
+			-volunteers should also walk around in the beginning of the presentation
+				section to ensure that there are no issues
+		check if Xcode is necessary for MacBook install
+	
+	
+	SAM TIMELINE
+		how to set up workspace
 		terminal
 		why git is important/ versioning control
 			-explanation of Linus Torvald - how to manage a huge project
@@ -10,25 +29,12 @@ outline:
 			-keep a more hierarchical structure
 			(collaboration with Jon?)
 		
-		VOLUNTEERS in this period make sure if people didn't attend 5-6 period
+		VOLUNTEERS in this period make sure if people didn't attend 5-6pm period
 		they are set up correctly
 		
-		GitHub e 
 	
 	
-	MATERIALS:
-	provide red sticky notes for people requiring help
-		software carpentry
-		supplies to buy
-	memo pads
-	
-	
-	PREP:
-		ensure attendees get/ have GitHub accounts
-		check if Xcode is necessary for MacBook install
-	
-	
-	Jon timeline:
+	JON TIMELINE:
 		-how you would take a local and put it on GitHub
 		-how you would check something out
 			if you want a copy of somebody else's
