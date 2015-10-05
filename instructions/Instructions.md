@@ -4,21 +4,21 @@ We are very excited to see everyone on Wednesday.  Prior to the event we ask tha
 
 You will need the following on Wednesday:
 
-+A computer
+*A computer
 
-+Git Installed
+*Git Installed
 	
-	+[MAC instructions](##Mac Installation Instructions)
+	*[MAC instructions](##Mac Installation Instructions)
 	
-	+[PC Instructions] (##PC Instructions)
+	*[PC Instructions] (##PC Instructions)
 
-+Text editor of your choice
+*Text editor of your choice
 	
-	+[Recommendations](##Recommendations) 
+	*[Recommendations](##Recommendations) 
 
-+GitHub Account
+*GitHub Account
 	
-	+[Getting an Account](##GitHub Account)
+	*[Getting an Account](##GitHub Account)
 
 ##Mac Installation Instructiions
 
