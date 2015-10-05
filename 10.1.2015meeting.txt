@@ -2,6 +2,10 @@
 
 -Outline discussion (20 min)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> e102e4efbb80b6f8844a2509a58a68114968abe0
 -Workshop dry run (10 min)
 	when/ where?
 
