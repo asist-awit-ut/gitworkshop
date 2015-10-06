@@ -14,7 +14,7 @@ You will need the following on Wednesday:
 
 * Text editor of your choice
 	
-  * [Recommendations](#recommendations) 
+  * [Recommendations](#text-editor-recommendations) 
 
 * GitHub Account
 	
@@ -72,18 +72,22 @@ Close the terminal
 How is PC installation different
 
 
-##Recommendations
+##Text Editor Recommendations
 
 Text editors
 
-Mac - text wrangler
+Mac - Text Wrangler
+
+Available from the app store.
 
 PC - Notepad ++
 
+https://notepad-plus-plus.org/ 
+
 ##GitHub Account
 
-Instructions for making a GitHub account
+Go to the following to sign up for a GitHub account:
 
-
+https://github.com/join 
 
 
