@@ -8,7 +8,7 @@ You will need the following on Wednesday:
 
 * Git Installed
 	
-  * [MAC instructions](#Mac Installation Instructions)
+  * [MAC instructions](#mac-installation-instructions)
 	
   * [PC Instructions] (#PC Instructions)
 
