@@ -61,6 +61,12 @@ Type the following in the terminal window:
 
 	git --version
 
+If git installed correctly, after typing git --version, then the version should print out as in the picture below
+
+![Git version example](https://github.com/asist-awit-ut/gitworkshop/blob/HowTo/instructions/check_version.png)
+
+Close the terminal
+
 ##PC Instructions
 
 How is PC installation different
