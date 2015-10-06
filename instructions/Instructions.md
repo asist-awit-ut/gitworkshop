@@ -35,12 +35,20 @@ Make sure you are downloading git for Mac, as noted by the graphic below:
 
 ##PC Instructions
 
+How is PC installation different
+
 
 ##Recommendations
 
+Text editors
+
+Mac - text wrangler
+
+PC - Notepad ++
 
 ##GitHub Account
 
+Instructions for making a GitHub account
 
 
 
