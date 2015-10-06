@@ -8,19 +8,19 @@ You will need the following on Wednesday:
 
 * Git Installed
 	
-  * [MAC instructions](##Mac Installation Instructions)
+  * [MAC instructions](#Mac Installation Instructions)
 	
-  * [PC Instructions] (##PC Instructions)
+  * [PC Instructions] (#PC Instructions)
 
 * Text editor of your choice
 	
-  * [Recommendations](##Recommendations) 
+  * [Recommendations](#Recommendations) 
 
 * GitHub Account
 	
-  * [Getting an Account](##GitHub Account)
+  * [Getting an Account](#GitHub Account)
 
-##Mac Installation Instructiions
+##Mac Installation Instructions
 
 
 ###Get git from the git website
