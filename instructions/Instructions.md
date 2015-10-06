@@ -71,6 +71,21 @@ Close the terminal
 
 How is PC installation different
 
+![Install Git](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/PC/gitdownloadscreen.PNG)
+
+![Git download Screen](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/PC/gitdownload.PNG)
+
+![Git Run](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/PC/rungit.PNG)
+
+![Click Next](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/PC/clicknext.PNG)
+
+![Keep defaults](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/PC/defaultoptions.PNG)
+
+![Keep git bash](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/PC/gitbash.PNG)
+
+![Git finish install](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/PC/finish.PNG)
+
+![Git bash](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/PC/gitbashinstalled.PNG)
 
 ##Text Editor Recommendations
 
