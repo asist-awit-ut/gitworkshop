@@ -69,21 +69,37 @@ Close the terminal
 
 ##PC Instructions
 
-How is PC installation different
+Go to the git website:http://www.git-scm.com/download/win 
+
+Click on the download for windows
 
 ![Install Git](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/PC/gitdownloadscreen.PNG)
 
+Save file
+
 ![Git download Screen](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/PC/gitdownload.PNG)
+
+Run the file
 
 ![Git Run](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/PC/rungit.PNG)
 
+Go through the Git Setup instructions
+
 ![Click Next](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/PC/clicknext.PNG)
+
+Keep all the default options
 
 ![Keep defaults](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/PC/defaultoptions.PNG)
 
+Keep the Use Git from Git Bash only. Git bash will look like the terminal in apple.
+
 ![Keep git bash](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/PC/gitbash.PNG)
 
+Click finish
+
 ![Git finish install](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/PC/finish.PNG)
+
+Open the git bash program to ensure you have it installed.
 
 ![Git bash](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/PC/gitbashinstalled.PNG)
 
