@@ -10,15 +10,15 @@ You will need the following on Wednesday:
 	
   * [MAC instructions](#mac-installation-instructions)
 	
-  * [PC Instructions] (#PC Instructions)
+  * [PC Instructions](#pc-instructions)
 
 * Text editor of your choice
 	
-  * [Recommendations](#Recommendations) 
+  * [Recommendations](#recommendations) 
 
 * GitHub Account
 	
-  * [Getting an Account](#GitHub Account)
+  * [Getting an Account](#github-account)
 
 ##Mac Installation Instructions
 
