@@ -78,11 +78,11 @@ Text editors
 
 Mac - Text Wrangler
 
-Available from the app store.
+ - Available from the app store.
 
 PC - Notepad ++
 
-https://notepad-plus-plus.org/ 
+ - https://notepad-plus-plus.org/ 
 
 ##GitHub Account
 
