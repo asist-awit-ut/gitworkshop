@@ -11,3 +11,9 @@ Lynda Tutorials
 Pat G. Info
 
 
+installing other versions of git for older OSX
+
+http://sourceforge.net/projects/git-osx-installer/files/?source=navbar
+
+
+
