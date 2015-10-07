@@ -9,7 +9,7 @@
 
 The PCL is on UT's main campus
 
-![PCL Map](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/location/PCL.PNG)
+![PCL Map](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/location/pcl.png)
 
 ##Parking
 
@@ -17,7 +17,7 @@ Parking is available at meters south of MLK.  Meters are free after 6pm and $1/h
 
 On campus, the Brazos garage is available for $3/hour.
 
-![Parking](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/location/parking.PNG)
+![Parking](https://github.com/asist-awit-ut/gitworkshop/blob/master/instructions/location/parking.png)
 
 ##Inside the PCL
 
